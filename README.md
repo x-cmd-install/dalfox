@@ -14,11 +14,11 @@ x install dalfox
 
 ## Code insight
 
-Total: **136,450** lines of code across **357** files in the top 5 languages.
+Total: **136,867** lines of code across **357** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 113,161 | 12,246 | 9,834 | 250 |
+| Rust | 113,578 | 12,281 | 9,845 | 250 |
 | Toml | 9,596 | 541 | 1,092 | 77 |
 | Crystal | 5,814 | 1,783 | 924 | 22 |
 | Css | 2,917 | 226 | 79 | 3 |
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 81 · **Merged PRs**: 911 · **Open PRs**: 0 · **Closed issues**: 482 · **Open issues**: 4 · **Commits**: 3183
+- **Releases**: 81 · **Merged PRs**: 918 · **Open PRs**: 0 · **Closed issues**: 482 · **Open issues**: 4 · **Commits**: 3190
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 1 | 70 | 0 | 5 | 4 | 43 |
-| last60d | 2026-08-19 | 3 | 143 | 0 | 5 | 4 | 145 |
-| 90d | 2026-07-20 | 5 | 256 | 0 | 37 | 4 | 269 |
-| last180d | 2026-04-21 | 12 | 479 | 0 | 98 | 4 | 673 |
-| 360d | 2025-10-23 | 12 | 532 | 0 | 109 | 4 | 891 |
-| last720d | 2024-10-28 | 15 | 687 | 0 | 179 | 4 | 1717 |
+| 30d | 2026-09-19 | 1 | 75 | 0 | 5 | 4 | 50 |
+| last60d | 2026-08-20 | 3 | 146 | 0 | 5 | 4 | 152 |
+| 90d | 2026-07-21 | 5 | 262 | 0 | 37 | 4 | 276 |
+| last180d | 2026-04-22 | 12 | 486 | 0 | 98 | 4 | 680 |
+| 360d | 2025-10-24 | 12 | 539 | 0 | 109 | 4 | 898 |
+| last720d | 2024-10-29 | 15 | 694 | 0 | 179 | 4 | 1724 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for dalfox lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T05:27:51Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:42:30Z._
