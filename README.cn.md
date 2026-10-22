@@ -30,7 +30,7 @@ x install dalfox
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/22 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/18 approved changesets -- score normalized to 0
 - **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -48,7 +48,7 @@ x install dalfox
 
 ## 流行度
 
-- **Star**: 5,328 · **Fork**: 567 · **开放 issue**: 490 · **贡献者**: 49
+- **Star**: 5,328 · **Fork**: 568 · **开放 issue**: 490 · **贡献者**: 49
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install dalfox
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 72 | 0 | 10 | 3 | 53 |
-| last60d | 2026-08-22 | 3 | 148 | 0 | 10 | 3 | 155 |
-| 90d | 2026-07-23 | 5 | 265 | 0 | 41 | 3 | 279 |
-| last180d | 2026-04-24 | 12 | 489 | 0 | 103 | 3 | 683 |
-| 360d | 2025-10-26 | 12 | 542 | 0 | 114 | 3 | 901 |
-| last720d | 2024-10-31 | 15 | 697 | 0 | 184 | 3 | 1727 |
+| 30d | 2026-09-22 | 1 | 69 | 0 | 10 | 3 | 53 |
+| last60d | 2026-08-23 | 3 | 145 | 0 | 10 | 3 | 155 |
+| 90d | 2026-07-24 | 5 | 265 | 0 | 41 | 3 | 279 |
+| last180d | 2026-04-25 | 12 | 489 | 0 | 103 | 3 | 683 |
+| 360d | 2025-10-27 | 12 | 542 | 0 | 114 | 3 | 901 |
+| last720d | 2024-11-01 | 15 | 697 | 0 | 184 | 3 | 1727 |
 
 ## Release 资产
 
@@ -103,4 +103,4 @@ dalfox 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261021.yml` · 2026-10-21T05:51:43Z._
+_数据快照: `data/card/261022.yml` · 2026-10-22T05:53:27Z._
