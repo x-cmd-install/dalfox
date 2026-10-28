@@ -14,11 +14,11 @@ x install dalfox
 
 ## Code insight
 
-Total: **138,745** lines of code across **363** files in the top 5 languages.
+Total: **138,749** lines of code across **363** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 115,341 | 12,332 | 9,911 | 252 |
+| Rust | 115,345 | 12,313 | 9,909 | 252 |
 | Toml | 9,596 | 541 | 1,092 | 77 |
 | Crystal | 5,814 | 1,783 | 924 | 22 |
 | JavaScript | 2,615 | 140 | 132 | 7 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.2.4` (2026-10-07)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-10-27
 - **Assets in release**: 24
 
 ## Popularity
 
-- **Stars**: 5,333 · **Forks**: 569 · **Open issues**: 492 · **Contributors**: 49
+- **Stars**: 5,336 · **Forks**: 570 · **Open issues**: 492 · **Contributors**: 49
 
 ## Totals (cumulative)
 
-- **Releases**: 81 · **Merged PRs**: 931 · **Open PRs**: 1 · **Closed issues**: 489 · **Open issues**: 3 · **Commits**: 3203
+- **Releases**: 81 · **Merged PRs**: 935 · **Open PRs**: 0 · **Closed issues**: 491 · **Open issues**: 1 · **Commits**: 3207
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 1 | 55 | 1 | 11 | 3 | 56 |
-| last60d | 2026-08-28 | 3 | 152 | 1 | 12 | 3 | 153 |
-| 90d | 2026-07-29 | 5 | 259 | 1 | 41 | 3 | 240 |
-| last180d | 2026-04-30 | 12 | 498 | 1 | 105 | 3 | 677 |
-| 360d | 2025-11-01 | 12 | 551 | 1 | 116 | 3 | 910 |
-| last720d | 2024-11-06 | 15 | 707 | 1 | 186 | 3 | 1737 |
+| 30d | 2026-09-28 | 1 | 57 | 0 | 13 | 1 | 60 |
+| last60d | 2026-08-29 | 3 | 154 | 0 | 14 | 1 | 157 |
+| 90d | 2026-07-30 | 5 | 251 | 0 | 43 | 1 | 244 |
+| last180d | 2026-05-01 | 12 | 501 | 0 | 107 | 1 | 681 |
+| 360d | 2025-11-02 | 12 | 555 | 0 | 118 | 1 | 914 |
+| last720d | 2024-11-07 | 15 | 711 | 0 | 188 | 1 | 1741 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for dalfox lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T06:07:50Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T07:01:27Z._
