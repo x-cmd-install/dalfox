@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 1 | 97 | 0 | 41 | 1 | 90 |
-| last60d | 2026-09-05 | 2 | 169 | 0 | 42 | 1 | 167 |
-| 90d | 2026-08-06 | 4 | 274 | 0 | 67 | 1 | 269 |
-| last180d | 2026-05-08 | 11 | 530 | 0 | 134 | 1 | 655 |
-| 360d | 2025-11-09 | 12 | 601 | 0 | 146 | 1 | 956 |
-| last720d | 2024-11-14 | 15 | 758 | 0 | 213 | 1 | 1788 |
+| 30d | 2026-10-06 | 1 | 97 | 0 | 41 | 1 | 90 |
+| last60d | 2026-09-06 | 2 | 163 | 0 | 42 | 1 | 167 |
+| 90d | 2026-08-07 | 4 | 272 | 0 | 57 | 1 | 269 |
+| last180d | 2026-05-09 | 11 | 530 | 0 | 134 | 1 | 655 |
+| 360d | 2025-11-10 | 12 | 601 | 0 | 146 | 1 | 956 |
+| last720d | 2024-11-15 | 15 | 758 | 0 | 213 | 1 | 1788 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for dalfox lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:31:41Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:57:08Z._
