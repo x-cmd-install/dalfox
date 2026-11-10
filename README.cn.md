@@ -14,12 +14,12 @@ x install dalfox
 
 ## 代码洞察
 
-合计: **142,156** 行代码（覆盖前 5 种语言、共 **362** 个文件）。
+合计: **143,125** 行代码（覆盖前 5 种语言、共 **362** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 118,508 | 12,447 | 10,081 | 252 |
-| Toml | 9,599 | 472 | 1,089 | 76 |
+| Rust | 119,477 | 12,531 | 10,121 | 252 |
+| Toml | 9,599 | 473 | 1,089 | 76 |
 | Crystal | 5,814 | 1,783 | 924 | 22 |
 | JavaScript | 2,657 | 143 | 135 | 7 |
 | Json | 2,329 | 0 | 0 | 5 |
@@ -42,57 +42,57 @@ x install dalfox
 
 ## 发布
 
-- **最新版本**: `v3.2.4` (2026-10-07)
-- **最近提交**: 2026-11-08
+- **最新版本**: `v3.3.0` (2026-11-08)
+- **最近提交**: 2026-11-09
 - **Release 含资产**: 24 个
 
 ## 流行度
 
-- **Star**: 5,357 · **Fork**: 582 · **开放 issue**: 533 · **贡献者**: 56
+- **Star**: 5,368 · **Fork**: 582 · **开放 issue**: 533 · **贡献者**: 56
 
 ## 累计统计
 
-- **发布数**: 81 · **已合并 PR**: 996 · **开放 PR**: 1 · **已关闭 issue**: 530 · **开放 issue**: 3 · **提交数**: 3268
+- **发布数**: 82 · **已合并 PR**: 1006 · **开放 PR**: 0 · **已关闭 issue**: 532 · **开放 issue**: 1 · **提交数**: 3280
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 101 | 1 | 45 | 3 | 87 |
-| last60d | 2026-09-09 | 2 | 170 | 1 | 54 | 3 | 167 |
-| 90d | 2026-08-10 | 4 | 267 | 1 | 54 | 3 | 240 |
-| last180d | 2026-05-12 | 11 | 537 | 1 | 145 | 3 | 639 |
-| 360d | 2025-11-13 | 12 | 615 | 1 | 158 | 3 | 950 |
-| last720d | 2024-11-18 | 15 | 772 | 1 | 225 | 3 | 1801 |
+| 30d | 2026-10-11 | 1 | 104 | 0 | 47 | 1 | 99 |
+| last60d | 2026-09-11 | 3 | 179 | 0 | 56 | 1 | 179 |
+| 90d | 2026-08-12 | 5 | 265 | 0 | 56 | 1 | 252 |
+| last180d | 2026-05-14 | 12 | 543 | 0 | 147 | 1 | 651 |
+| 360d | 2025-11-15 | 13 | 622 | 0 | 160 | 1 | 962 |
+| last720d | 2024-11-20 | 16 | 782 | 0 | 227 | 1 | 1813 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksum.txt](https://github.com/hahwul/dalfox/releases/download/v3.2.4/checksum.txt) | 155 B | `other` |
-| [dalfox-v3.2.4-linux-aarch64-musl.tar.gz](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-aarch64-musl.tar.gz) | 5.7 MiB | `native/linux/arm64/musl` |
-| [dalfox-v3.2.4-linux-aarch64-musl.tar.gz.sha256](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-aarch64-musl.tar.gz.sha256) | 106 B | `native/linux/arm64/musl` |
-| [dalfox-v3.2.4-linux-aarch64.deb](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-aarch64.deb) | 3.9 MiB | `native/linux/arm64` |
-| [dalfox-v3.2.4-linux-aarch64.deb.sha256](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-aarch64.deb.sha256) | 98 B | `native/linux/arm64` |
-| [dalfox-v3.2.4-linux-aarch64.rpm](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-aarch64.rpm) | 4.5 MiB | `native/linux/arm64` |
-| [dalfox-v3.2.4-linux-aarch64.rpm.sha256](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-aarch64.rpm.sha256) | 98 B | `native/linux/arm64` |
-| [dalfox-v3.2.4-linux-aarch64.tar.gz](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-aarch64.tar.gz) | 5.8 MiB | `native/linux/arm64` |
-| [dalfox-v3.2.4-linux-aarch64.tar.gz.sha256](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-aarch64.tar.gz.sha256) | 101 B | `native/linux/arm64` |
-| [dalfox-v3.2.4-linux-x86_64-musl.tar.gz](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-x86_64-musl.tar.gz) | 6.2 MiB | `native/linux/x64/musl` |
-| [dalfox-v3.2.4-linux-x86_64-musl.tar.gz.sha256](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-x86_64-musl.tar.gz.sha256) | 105 B | `native/linux/x64/musl` |
-| [dalfox-v3.2.4-linux-x86_64.deb](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-x86_64.deb) | 4.4 MiB | `native/linux/x64` |
-| [dalfox-v3.2.4-linux-x86_64.deb.sha256](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-x86_64.deb.sha256) | 97 B | `native/linux/x64` |
-| [dalfox-v3.2.4-linux-x86_64.rpm](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-x86_64.rpm) | 4.8 MiB | `native/linux/x64` |
-| [dalfox-v3.2.4-linux-x86_64.rpm.sha256](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-x86_64.rpm.sha256) | 97 B | `native/linux/x64` |
-| [dalfox-v3.2.4-linux-x86_64.tar.gz](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-x86_64.tar.gz) | 6.1 MiB | `native/linux/x64` |
-| [dalfox-v3.2.4-linux-x86_64.tar.gz.sha256](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-x86_64.tar.gz.sha256) | 100 B | `native/linux/x64` |
-| [dalfox-v3.2.4-macos-aarch64.tar.gz](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-macos-aarch64.tar.gz) | 5.5 MiB | `native/darwin/arm64` |
-| [dalfox-v3.2.4-macos-aarch64.tar.gz.sha256](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-macos-aarch64.tar.gz.sha256) | 101 B | `native/darwin/arm64` |
-| [dalfox-v3.2.4-macos-x86_64.tar.gz](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-macos-x86_64.tar.gz) | 6.0 MiB | `native/darwin/x64` |
-| [dalfox-v3.2.4-macos-x86_64.tar.gz.sha256](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-macos-x86_64.tar.gz.sha256) | 100 B | `native/darwin/x64` |
-| [dalfox-v3.2.4-windows-x86_64.zip](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-windows-x86_64.zip) | 6.3 MiB | `native/win/x64` |
-| [dalfox-v3.2.4-windows-x86_64.zip.sha256](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-windows-x86_64.zip.sha256) | 169 B | `native/win/x64` |
-| [dalfox.cdx.xml](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox.cdx.xml) | 352.2 KiB | `other` |
+| [checksum.txt](https://github.com/hahwul/dalfox/releases/download/v3.3.0/checksum.txt) | 155 B | `other` |
+| [dalfox-v3.3.0-linux-aarch64-musl.tar.gz](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-aarch64-musl.tar.gz) | 6.3 MiB | `native/linux/arm64/musl` |
+| [dalfox-v3.3.0-linux-aarch64-musl.tar.gz.sha256](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-aarch64-musl.tar.gz.sha256) | 106 B | `native/linux/arm64/musl` |
+| [dalfox-v3.3.0-linux-aarch64.deb](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-aarch64.deb) | 4.3 MiB | `native/linux/arm64` |
+| [dalfox-v3.3.0-linux-aarch64.deb.sha256](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-aarch64.deb.sha256) | 98 B | `native/linux/arm64` |
+| [dalfox-v3.3.0-linux-aarch64.rpm](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-aarch64.rpm) | 5.0 MiB | `native/linux/arm64` |
+| [dalfox-v3.3.0-linux-aarch64.rpm.sha256](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-aarch64.rpm.sha256) | 98 B | `native/linux/arm64` |
+| [dalfox-v3.3.0-linux-aarch64.tar.gz](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-aarch64.tar.gz) | 6.4 MiB | `native/linux/arm64` |
+| [dalfox-v3.3.0-linux-aarch64.tar.gz.sha256](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-aarch64.tar.gz.sha256) | 101 B | `native/linux/arm64` |
+| [dalfox-v3.3.0-linux-x86_64-musl.tar.gz](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-x86_64-musl.tar.gz) | 6.9 MiB | `native/linux/x64/musl` |
+| [dalfox-v3.3.0-linux-x86_64-musl.tar.gz.sha256](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-x86_64-musl.tar.gz.sha256) | 105 B | `native/linux/x64/musl` |
+| [dalfox-v3.3.0-linux-x86_64.deb](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-x86_64.deb) | 4.9 MiB | `native/linux/x64` |
+| [dalfox-v3.3.0-linux-x86_64.deb.sha256](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-x86_64.deb.sha256) | 97 B | `native/linux/x64` |
+| [dalfox-v3.3.0-linux-x86_64.rpm](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-x86_64.rpm) | 5.3 MiB | `native/linux/x64` |
+| [dalfox-v3.3.0-linux-x86_64.rpm.sha256](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-x86_64.rpm.sha256) | 97 B | `native/linux/x64` |
+| [dalfox-v3.3.0-linux-x86_64.tar.gz](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-x86_64.tar.gz) | 6.8 MiB | `native/linux/x64` |
+| [dalfox-v3.3.0-linux-x86_64.tar.gz.sha256](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-x86_64.tar.gz.sha256) | 100 B | `native/linux/x64` |
+| [dalfox-v3.3.0-macos-aarch64.tar.gz](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-macos-aarch64.tar.gz) | 6.1 MiB | `native/darwin/arm64` |
+| [dalfox-v3.3.0-macos-aarch64.tar.gz.sha256](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-macos-aarch64.tar.gz.sha256) | 101 B | `native/darwin/arm64` |
+| [dalfox-v3.3.0-macos-x86_64.tar.gz](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-macos-x86_64.tar.gz) | 6.6 MiB | `native/darwin/x64` |
+| [dalfox-v3.3.0-macos-x86_64.tar.gz.sha256](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-macos-x86_64.tar.gz.sha256) | 100 B | `native/darwin/x64` |
+| [dalfox-v3.3.0-windows-x86_64.zip](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-windows-x86_64.zip) | 6.9 MiB | `native/win/x64` |
+| [dalfox-v3.3.0-windows-x86_64.zip.sha256](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-windows-x86_64.zip.sha256) | 169 B | `native/win/x64` |
+| [dalfox.cdx.xml](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox.cdx.xml) | 368.2 KiB | `other` |
 
 ## 改进这些数据
 
@@ -103,4 +103,4 @@ dalfox 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261108.yml` · 2026-11-08T07:12:31Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T08:36:05Z._

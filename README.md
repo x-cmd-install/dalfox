@@ -14,12 +14,12 @@ x install dalfox
 
 ## Code insight
 
-Total: **142,156** lines of code across **362** files in the top 5 languages.
+Total: **143,125** lines of code across **362** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 118,508 | 12,447 | 10,081 | 252 |
-| Toml | 9,599 | 472 | 1,089 | 76 |
+| Rust | 119,477 | 12,531 | 10,121 | 252 |
+| Toml | 9,599 | 473 | 1,089 | 76 |
 | Crystal | 5,814 | 1,783 | 924 | 22 |
 | JavaScript | 2,657 | 143 | 135 | 7 |
 | Json | 2,329 | 0 | 0 | 5 |
@@ -42,57 +42,57 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v3.2.4` (2026-10-07)
-- **Last commit**: 2026-11-08
+- **Latest**: `v3.3.0` (2026-11-08)
+- **Last commit**: 2026-11-09
 - **Assets in release**: 24
 
 ## Popularity
 
-- **Stars**: 5,357 · **Forks**: 582 · **Open issues**: 533 · **Contributors**: 56
+- **Stars**: 5,368 · **Forks**: 582 · **Open issues**: 533 · **Contributors**: 56
 
 ## Totals (cumulative)
 
-- **Releases**: 81 · **Merged PRs**: 996 · **Open PRs**: 1 · **Closed issues**: 530 · **Open issues**: 3 · **Commits**: 3268
+- **Releases**: 82 · **Merged PRs**: 1006 · **Open PRs**: 0 · **Closed issues**: 532 · **Open issues**: 1 · **Commits**: 3280
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 101 | 1 | 45 | 3 | 87 |
-| last60d | 2026-09-09 | 2 | 170 | 1 | 54 | 3 | 167 |
-| 90d | 2026-08-10 | 4 | 267 | 1 | 54 | 3 | 240 |
-| last180d | 2026-05-12 | 11 | 537 | 1 | 145 | 3 | 639 |
-| 360d | 2025-11-13 | 12 | 615 | 1 | 158 | 3 | 950 |
-| last720d | 2024-11-18 | 15 | 772 | 1 | 225 | 3 | 1801 |
+| 30d | 2026-10-11 | 1 | 104 | 0 | 47 | 1 | 99 |
+| last60d | 2026-09-11 | 3 | 179 | 0 | 56 | 1 | 179 |
+| 90d | 2026-08-12 | 5 | 265 | 0 | 56 | 1 | 252 |
+| last180d | 2026-05-14 | 12 | 543 | 0 | 147 | 1 | 651 |
+| 360d | 2025-11-15 | 13 | 622 | 0 | 160 | 1 | 962 |
+| last720d | 2024-11-20 | 16 | 782 | 0 | 227 | 1 | 1813 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksum.txt](https://github.com/hahwul/dalfox/releases/download/v3.2.4/checksum.txt) | 155 B | `other` |
-| [dalfox-v3.2.4-linux-aarch64-musl.tar.gz](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-aarch64-musl.tar.gz) | 5.7 MiB | `native/linux/arm64/musl` |
-| [dalfox-v3.2.4-linux-aarch64-musl.tar.gz.sha256](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-aarch64-musl.tar.gz.sha256) | 106 B | `native/linux/arm64/musl` |
-| [dalfox-v3.2.4-linux-aarch64.deb](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-aarch64.deb) | 3.9 MiB | `native/linux/arm64` |
-| [dalfox-v3.2.4-linux-aarch64.deb.sha256](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-aarch64.deb.sha256) | 98 B | `native/linux/arm64` |
-| [dalfox-v3.2.4-linux-aarch64.rpm](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-aarch64.rpm) | 4.5 MiB | `native/linux/arm64` |
-| [dalfox-v3.2.4-linux-aarch64.rpm.sha256](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-aarch64.rpm.sha256) | 98 B | `native/linux/arm64` |
-| [dalfox-v3.2.4-linux-aarch64.tar.gz](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-aarch64.tar.gz) | 5.8 MiB | `native/linux/arm64` |
-| [dalfox-v3.2.4-linux-aarch64.tar.gz.sha256](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-aarch64.tar.gz.sha256) | 101 B | `native/linux/arm64` |
-| [dalfox-v3.2.4-linux-x86_64-musl.tar.gz](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-x86_64-musl.tar.gz) | 6.2 MiB | `native/linux/x64/musl` |
-| [dalfox-v3.2.4-linux-x86_64-musl.tar.gz.sha256](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-x86_64-musl.tar.gz.sha256) | 105 B | `native/linux/x64/musl` |
-| [dalfox-v3.2.4-linux-x86_64.deb](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-x86_64.deb) | 4.4 MiB | `native/linux/x64` |
-| [dalfox-v3.2.4-linux-x86_64.deb.sha256](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-x86_64.deb.sha256) | 97 B | `native/linux/x64` |
-| [dalfox-v3.2.4-linux-x86_64.rpm](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-x86_64.rpm) | 4.8 MiB | `native/linux/x64` |
-| [dalfox-v3.2.4-linux-x86_64.rpm.sha256](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-x86_64.rpm.sha256) | 97 B | `native/linux/x64` |
-| [dalfox-v3.2.4-linux-x86_64.tar.gz](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-x86_64.tar.gz) | 6.1 MiB | `native/linux/x64` |
-| [dalfox-v3.2.4-linux-x86_64.tar.gz.sha256](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-linux-x86_64.tar.gz.sha256) | 100 B | `native/linux/x64` |
-| [dalfox-v3.2.4-macos-aarch64.tar.gz](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-macos-aarch64.tar.gz) | 5.5 MiB | `native/darwin/arm64` |
-| [dalfox-v3.2.4-macos-aarch64.tar.gz.sha256](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-macos-aarch64.tar.gz.sha256) | 101 B | `native/darwin/arm64` |
-| [dalfox-v3.2.4-macos-x86_64.tar.gz](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-macos-x86_64.tar.gz) | 6.0 MiB | `native/darwin/x64` |
-| [dalfox-v3.2.4-macos-x86_64.tar.gz.sha256](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-macos-x86_64.tar.gz.sha256) | 100 B | `native/darwin/x64` |
-| [dalfox-v3.2.4-windows-x86_64.zip](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-windows-x86_64.zip) | 6.3 MiB | `native/win/x64` |
-| [dalfox-v3.2.4-windows-x86_64.zip.sha256](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox-v3.2.4-windows-x86_64.zip.sha256) | 169 B | `native/win/x64` |
-| [dalfox.cdx.xml](https://github.com/hahwul/dalfox/releases/download/v3.2.4/dalfox.cdx.xml) | 352.2 KiB | `other` |
+| [checksum.txt](https://github.com/hahwul/dalfox/releases/download/v3.3.0/checksum.txt) | 155 B | `other` |
+| [dalfox-v3.3.0-linux-aarch64-musl.tar.gz](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-aarch64-musl.tar.gz) | 6.3 MiB | `native/linux/arm64/musl` |
+| [dalfox-v3.3.0-linux-aarch64-musl.tar.gz.sha256](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-aarch64-musl.tar.gz.sha256) | 106 B | `native/linux/arm64/musl` |
+| [dalfox-v3.3.0-linux-aarch64.deb](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-aarch64.deb) | 4.3 MiB | `native/linux/arm64` |
+| [dalfox-v3.3.0-linux-aarch64.deb.sha256](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-aarch64.deb.sha256) | 98 B | `native/linux/arm64` |
+| [dalfox-v3.3.0-linux-aarch64.rpm](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-aarch64.rpm) | 5.0 MiB | `native/linux/arm64` |
+| [dalfox-v3.3.0-linux-aarch64.rpm.sha256](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-aarch64.rpm.sha256) | 98 B | `native/linux/arm64` |
+| [dalfox-v3.3.0-linux-aarch64.tar.gz](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-aarch64.tar.gz) | 6.4 MiB | `native/linux/arm64` |
+| [dalfox-v3.3.0-linux-aarch64.tar.gz.sha256](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-aarch64.tar.gz.sha256) | 101 B | `native/linux/arm64` |
+| [dalfox-v3.3.0-linux-x86_64-musl.tar.gz](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-x86_64-musl.tar.gz) | 6.9 MiB | `native/linux/x64/musl` |
+| [dalfox-v3.3.0-linux-x86_64-musl.tar.gz.sha256](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-x86_64-musl.tar.gz.sha256) | 105 B | `native/linux/x64/musl` |
+| [dalfox-v3.3.0-linux-x86_64.deb](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-x86_64.deb) | 4.9 MiB | `native/linux/x64` |
+| [dalfox-v3.3.0-linux-x86_64.deb.sha256](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-x86_64.deb.sha256) | 97 B | `native/linux/x64` |
+| [dalfox-v3.3.0-linux-x86_64.rpm](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-x86_64.rpm) | 5.3 MiB | `native/linux/x64` |
+| [dalfox-v3.3.0-linux-x86_64.rpm.sha256](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-x86_64.rpm.sha256) | 97 B | `native/linux/x64` |
+| [dalfox-v3.3.0-linux-x86_64.tar.gz](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-x86_64.tar.gz) | 6.8 MiB | `native/linux/x64` |
+| [dalfox-v3.3.0-linux-x86_64.tar.gz.sha256](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-linux-x86_64.tar.gz.sha256) | 100 B | `native/linux/x64` |
+| [dalfox-v3.3.0-macos-aarch64.tar.gz](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-macos-aarch64.tar.gz) | 6.1 MiB | `native/darwin/arm64` |
+| [dalfox-v3.3.0-macos-aarch64.tar.gz.sha256](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-macos-aarch64.tar.gz.sha256) | 101 B | `native/darwin/arm64` |
+| [dalfox-v3.3.0-macos-x86_64.tar.gz](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-macos-x86_64.tar.gz) | 6.6 MiB | `native/darwin/x64` |
+| [dalfox-v3.3.0-macos-x86_64.tar.gz.sha256](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-macos-x86_64.tar.gz.sha256) | 100 B | `native/darwin/x64` |
+| [dalfox-v3.3.0-windows-x86_64.zip](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-windows-x86_64.zip) | 6.9 MiB | `native/win/x64` |
+| [dalfox-v3.3.0-windows-x86_64.zip.sha256](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox-v3.3.0-windows-x86_64.zip.sha256) | 169 B | `native/win/x64` |
+| [dalfox.cdx.xml](https://github.com/hahwul/dalfox/releases/download/v3.3.0/dalfox.cdx.xml) | 368.2 KiB | `other` |
 
 ## Improve this data
 
@@ -103,4 +103,4 @@ Install metadata for dalfox lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:12:31Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:36:04Z._
