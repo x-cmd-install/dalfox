@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,375 · **Forks**: 581 · **Open issues**: 534 · **Contributors**: 56
+- **Stars**: 5,377 · **Forks**: 580 · **Open issues**: 536 · **Contributors**: 56
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 1015 · **Open PRs**: 0 · **Closed issues**: 534 · **Open issues**: 0 · **Commits**: 3289
+- **Releases**: 82 · **Merged PRs**: 1015 · **Open PRs**: 4 · **Closed issues**: 534 · **Open issues**: 2 · **Commits**: 3289
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 1 | 110 | 0 | 49 | 0 | 0 |
-| last60d | 2026-09-14 | 3 | 180 | 0 | 58 | 0 | 0 |
-| 90d | 2026-08-15 | 4 | 266 | 0 | 58 | 0 | 0 |
-| last180d | 2026-05-17 | 12 | 543 | 0 | 149 | 0 | 0 |
-| 360d | 2025-11-18 | 13 | 630 | 0 | 162 | 0 | 0 |
-| last720d | 2024-11-23 | 16 | 791 | 0 | 229 | 0 | 1822 |
+| 30d | 2026-10-15 | 1 | 107 | 4 | 49 | 2 | 108 |
+| last60d | 2026-09-15 | 3 | 177 | 4 | 58 | 2 | 188 |
+| 90d | 2026-08-16 | 4 | 248 | 4 | 58 | 2 | 261 |
+| last180d | 2026-05-18 | 12 | 538 | 4 | 149 | 2 | 660 |
+| 360d | 2025-11-19 | 13 | 630 | 4 | 162 | 2 | 971 |
+| last720d | 2024-11-24 | 16 | 791 | 4 | 229 | 2 | 1822 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for dalfox lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T08:21:55Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T08:06:47Z._
