@@ -14,15 +14,15 @@ x install dalfox
 
 ## Code insight
 
-Total: **152,576** lines of code across **368** files in the top 5 languages.
+Total: **154,350** lines of code across **373** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 128,910 | 13,140 | 10,573 | 258 |
+| Rust | 130,464 | 13,154 | 10,630 | 263 |
 | Toml | 9,599 | 473 | 1,089 | 76 |
-| Crystal | 5,832 | 1,791 | 924 | 22 |
+| Crystal | 5,899 | 1,791 | 927 | 22 |
 | JavaScript | 2,657 | 143 | 135 | 7 |
-| Json | 2,329 | 0 | 0 | 5 |
+| Json | 2,477 | 0 | 0 | 5 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.3.0` (2026-11-08)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-18
 - **Assets in release**: 24
 
 ## Popularity
 
-- **Stars**: 5,379 · **Forks**: 581 · **Open issues**: 537 · **Contributors**: 56
+- **Stars**: 5,386 · **Forks**: 582 · **Open issues**: 537 · **Contributors**: 56
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 1038 · **Open PRs**: 2 · **Closed issues**: 535 · **Open issues**: 2 · **Commits**: 3327
+- **Releases**: 82 · **Merged PRs**: 1044 · **Open PRs**: 0 · **Closed issues**: 536 · **Open issues**: 1 · **Commits**: 3341
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 120 | 2 | 50 | 2 | 127 |
-| last60d | 2026-09-18 | 2 | 197 | 2 | 59 | 2 | 203 |
-| 90d | 2026-08-19 | 4 | 270 | 2 | 59 | 2 | 284 |
-| last180d | 2026-05-21 | 12 | 551 | 2 | 150 | 2 | 615 |
-| 360d | 2025-11-22 | 13 | 652 | 2 | 163 | 2 | 996 |
-| last720d | 2024-11-27 | 16 | 813 | 2 | 229 | 2 | 1857 |
+| 30d | 2026-10-20 | 1 | 123 | 0 | 47 | 1 | 136 |
+| last60d | 2026-09-20 | 2 | 196 | 0 | 60 | 1 | 212 |
+| 90d | 2026-08-21 | 4 | 272 | 0 | 60 | 1 | 293 |
+| last180d | 2026-05-23 | 12 | 550 | 0 | 151 | 1 | 624 |
+| 360d | 2025-11-24 | 13 | 658 | 0 | 164 | 1 | 1005 |
+| last720d | 2024-11-29 | 16 | 819 | 0 | 230 | 1 | 1870 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for dalfox lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:46:37Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:40:29Z._
