@@ -14,11 +14,11 @@ x install dalfox
 
 ## Code insight
 
-Total: **161,703** lines of code across **385** files in the top 5 languages.
+Total: **161,939** lines of code across **385** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 136,105 | 13,487 | 11,012 | 269 |
+| Rust | 136,341 | 13,557 | 11,050 | 269 |
 | Toml | 9,605 | 551 | 1,089 | 76 |
 | Crystal | 6,520 | 1,913 | 982 | 28 |
 | Json | 3,234 | 0 | 0 | 5 |
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 83 · **Merged PRs**: 1129 · **Open PRs**: 5 · **Closed issues**: 540 · **Open issues**: 9 · **Commits**: 3425
+- **Releases**: 83 · **Merged PRs**: 1135 · **Open PRs**: 2 · **Closed issues**: 546 · **Open issues**: 3 · **Commits**: 3431
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 2 | 194 | 5 | 49 | 9 | 206 |
-| last60d | 2026-09-27 | 3 | 253 | 5 | 63 | 9 | 267 |
-| 90d | 2026-08-28 | 5 | 350 | 5 | 64 | 9 | 367 |
-| last180d | 2026-05-30 | 12 | 619 | 5 | 141 | 9 | 656 |
-| 360d | 2025-12-01 | 14 | 742 | 5 | 167 | 9 | 1065 |
-| last720d | 2024-12-06 | 17 | 890 | 5 | 231 | 9 | 1896 |
+| 30d | 2026-10-28 | 2 | 200 | 2 | 55 | 3 | 212 |
+| last60d | 2026-09-28 | 3 | 257 | 2 | 69 | 3 | 273 |
+| 90d | 2026-08-29 | 5 | 354 | 2 | 70 | 3 | 373 |
+| last180d | 2026-05-31 | 12 | 616 | 2 | 146 | 3 | 662 |
+| 360d | 2025-12-02 | 14 | 748 | 2 | 173 | 3 | 1071 |
+| last720d | 2024-12-07 | 17 | 894 | 2 | 237 | 3 | 1887 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for dalfox lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:53:46Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:22:26Z._
